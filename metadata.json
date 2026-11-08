@@ -1,0 +1,6 @@
+{
+  "name": "HLG Pro Camera",
+  "description": "10-bit HLG uncropped 4:3 pro camera for Xiaomi 12S Ultra with Sony IMX586 ultrawide & IMX989 main sensors, RGB+Luma histogram, exposure spots, 3A lock, and live telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
